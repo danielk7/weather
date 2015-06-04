@@ -70,7 +70,7 @@ html, body{
 	z-index: 0;
 	background-image: url("http://photos4.meetupstatic.com/photos/theme_body/6/c/3/1/full_6747697.jpeg");
   background-repeat: no-repeat;
-	height: 400px;
+	height: 430px;
 	overflow: hidden;
 	text-align: center;
 	display: inline-block;
@@ -114,11 +114,11 @@ html, body{
 	width: 40%;
 	text-align: center;
 	color: white;
-	margin-bottom: 25px;
+	margin-bottom: 45px;
 	margin-top: -70px;
   margin-left: auto;
   margin-right: auto;
-	font-size: 35px;
+	font-size: 55px;
 }
 
 .top input{
@@ -163,7 +163,7 @@ html, body{
 }
 
 .bot ul li:nth-child(1){
-	color: #196189;	
+	color: #218CB0;	
 }
 
 
