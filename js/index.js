@@ -247,3 +247,9 @@ function setImage(code, image){
 			break;
 	}
 }
+
+
+
+
+
+
