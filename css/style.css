@@ -36,6 +36,16 @@ html, body{
 	font-family: 'Open Sans', sans-serif;
 }
 
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
 .info p{
   text-align: center;
 	margin: 10px auto 0px auto;
