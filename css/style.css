@@ -29,7 +29,7 @@ time, mark, audio, video {
 }
 
 html, body{
-	background-image: url("http://photos4.meetupstatic.com/photos/theme_body/6/c/3/1/full_6747697.jpeg");
+	background-image: url("/img/full_bg.jpg");
 	height: 100%;
 	width: 100%;
 	overflow: hidden;
